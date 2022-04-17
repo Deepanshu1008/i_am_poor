@@ -8,7 +8,7 @@ void main() {
     MaterialApp(
       //the app it should run is a material app
       home: Scaffold(
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.blueGrey,
         appBar: AppBar(
           title: Text('                             I Am Poor'),
           backgroundColor: Colors.black87,
